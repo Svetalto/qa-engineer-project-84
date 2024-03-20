@@ -1,8 +1,99 @@
 ---
+-  summary: | 
+   status:
+   
 -  summary: |
-    Краткое описание тест-кейса. Например, проверка входа пользователя с существующими логином и паролем
-  status: fail
+   status: 
+   
+-  summary: | 
+   status:
+   
+-  summary: |
+   status: 
+   
+-  summary: | 
+   status:
+   
+-  summary: |
+   status: 
+   
+-  summary: | 
+   status:
+   
+-  summary: |
+   status: 
+   
+-  summary: | 
+   status:
+   
+-  summary: |
+   status: 
+   
+-  summary: | 
+   status:
+   
+-  summary: |
+   status: 
+   
+-  summary: | 
+   status:
+   
+-  summary: |
+   status: 
+   
+-  summary: | 
+   status:
+   
+-  summary: |
+   status: 
+   
+-  summary: | 
+   status:
+   
+-  summary: |
+   status: 
+   
+-  summary: | 
+   status:
+   
+-  summary: |
+   status: 
+   
+-  summary: | 
+   status:
+   
+-  summary: |
+   status: 
+   
+-  summary: | 
+   status:
+   
+-  summary: |
+   status: 
+   
+-  summary: | 
+   status:
+   
+-  summary: |
+   status: 
+   
+-  summary: | 
+   status:
+   
+-  summary: |
+   status: 
+   
+-  summary: | 
+   status:
+   
+-  summary: |
+   status: 
+   
+-  summary: | 
+   status:
+   
+-  summary: |
+   status: 
 
-- summary: |
-    Краткое описание тест-кейса. Например, проверка входа пользователя с существующими логином и паролем
-  status: pass
+
+
