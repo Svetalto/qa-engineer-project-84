@@ -1,99 +1,56 @@
 ---
 -  summary: | 
-   status:
+      Добавление товара с главной страницы в корзину магазина
+   status: Pass
    
 -  summary: |
-   status: 
+   status: Pass
    
 -  summary: | 
-   status:
+   status: Pass
    
 -  summary: |
-   status: 
+   status: Pass
    
 -  summary: | 
-   status:
+   status: Pass
    
 -  summary: |
-   status: 
+   status: Pass 
    
 -  summary: | 
-   status:
+   status: Pass
    
 -  summary: |
-   status: 
+   status: Pass 
    
 -  summary: | 
-   status:
+   status: Pass
    
 -  summary: |
-   status: 
+   status:  Pass
    
 -  summary: | 
-   status:
+   status: Pass
    
 -  summary: |
-   status: 
+   status:  Pass
    
 -  summary: | 
-   status:
+   status: Pass
    
 -  summary: |
-   status: 
+   status:  Pass
    
 -  summary: | 
-   status:
+   status: Fail
    
 -  summary: |
-   status: 
+   status: Fail
    
--  summary: | 
-   status:
+
    
--  summary: |
-   status: 
-   
--  summary: | 
-   status:
-   
--  summary: |
-   status: 
-   
--  summary: | 
-   status:
-   
--  summary: |
-   status: 
-   
--  summary: | 
-   status:
-   
--  summary: |
-   status: 
-   
--  summary: | 
-   status:
-   
--  summary: |
-   status: 
-   
--  summary: | 
-   status:
-   
--  summary: |
-   status: 
-   
--  summary: | 
-   status:
-   
--  summary: |
-   status: 
-   
--  summary: | 
-   status:
-   
--  summary: |
-   status: 
+
 
 
 
