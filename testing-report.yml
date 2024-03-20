@@ -44,6 +44,7 @@
    status: Pass
    
 -  summary: |
+        Проверка корректной работы функции продления покупок в корзине
    status:  Pass
    
 -  summary: | 
