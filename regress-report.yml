@@ -63,7 +63,7 @@
    bugreports:
 - summary: |
       Некорректная верстка товара, когда он один изображен на главной странице магазина
-environment: |
+  environment: |
       Google Chrome 122.0.6261.112 (Официальная сборка), (arm64)
       macOS Monterey Версия 12.3.1
 steps-to-reproduce: |
