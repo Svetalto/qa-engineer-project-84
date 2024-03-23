@@ -6,7 +6,7 @@
   prerequisites: |
     nodata
   test-data: |
-    Любой товар из магазина
+    nodata
   steps:
     - Добавить товар в корзину
     - Открыть корзину
