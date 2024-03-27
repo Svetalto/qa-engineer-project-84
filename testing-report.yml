@@ -2,46 +2,51 @@
 -  summary: | 
       Добавление товара с главной страницы в корзину 
    status: pass   
+
 -  summary: |
       Проверка успешного оформления заказа
    status: pass   
+
 -  summary: | 
       Проверка перехода по страницам каталога
-   status: pass   
+   status: pass  
+
 -  summary: |
       Проверка фильтра по бренду
-   status: pass   
+   status: pass  
+
 -  summary: |
       Проверка фильтра по цене
-   status: pass   
+   status: pass  
+
 -  summary: | 
       Проверка отображения всех товаров каталога
-   status: pass  
+   status: pass 
+
 -  summary: |
       Проверка фильтра по категории
-   status: pass    
+   status: pass 
+
 -  summary: | 
       Проверка очистки корзины 
-   status: pass   
+   status: pass 
+
 -  summary: |  
       Проверка фильтра по ключевому слову
    status: pass
+
 -  summary: | 
       Проверка смены языка на сайте
-   status: pass  
+   status: pass 
+
 -  summary: |
       Проверка возврата в каталог из корзины по клику на "Продолжить покупки"
-   status: pass   
+   status: pass  
+
 -  summary: | 
       Проверка закрытия окна "Заказ успешно оформлен" кликом на крестик 
-   status: fail   
+   status: fail  
+    
 -  summary: |
       Проверка отображения картинок флагов в языковом меню
    status: fail
-   
-
-   
-
-
-
-
