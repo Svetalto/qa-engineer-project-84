@@ -1,17 +1,16 @@
 ---
-name: Ilona Maskova
+name: Svetlana Konovalova
 job: QA Engineer
 level: junior
-email: ilona@hexlet.io
-description: >
-  Этот текст — описание в свободной форме. Здесь можно рассказать
-  пару интересных фактов про себя.
-
-
-  Текст можно написать в несколько абзацев
+email: svetlana.n.konovalova@gmail.com
+description: Future successful tester. Trust me to check your product and believe me, the product will be in good hands)
 skills:
   - Функциональное тестирование
   - Написание багрепортов
   - Linux
-  - Слепая печать
-  - Английский язык C1
+  - Регрессионное тестирование
+  - Postman
+  - SQL
+  - HTML
+  - CSS
+  - JS
